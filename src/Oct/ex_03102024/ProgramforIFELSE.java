@@ -5,9 +5,9 @@ public class ProgramforIFELSE {
         Scanner sc = new Scanner(System.in);
         double age = sc.nextDouble();
         if (age >= 18) {
-            System.out.println("Candidate has exam entrance exam permission");
+            System.out.println("Candidate has car driving Licence permission");
         } else {
-            System.out.println( "Candidate has no exam entrance exam permission");
+            System.out.println( "Candidate has No car driving Licence permission");
         }
     }
 }
